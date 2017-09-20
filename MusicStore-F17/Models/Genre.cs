@@ -7,6 +7,6 @@ namespace MusicStore_F17.Models
 {
     public class Genre
     {
-        public string name{get; set;}
+        public string Name{get; set;}
     }
 }
