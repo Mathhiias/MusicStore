@@ -325,3 +325,10 @@ tr:hover
 {
 	background-color: #fff;
 }
+
+table sorttable th{
+    color: black;
+    text-decoration:none;
+    font-weight:bold;
+    cursor:pointer;
+}
